@@ -1,0 +1,95 @@
+@media only screen and (min-width:960px) and (max-width:1100px) {
+.header-sec .headertext{ font-size: 40px; padding: 4% 12% 0 0;}
+.section-latestnews{ 
+	background: url(../images/orangeleaf-left.png) 0 0 no-repeat,
+	url(../images/orangeleaf-right.png) 100% 0 no-repeat,
+	url(../images/../images/sec01-bottom.png) center bottom no-repeat; background-size: 10%, 10%, 100% auto; padding: 0 0 300px;} 
+
+	.section-about{ background: url(../images/sec02-bottom.png) center bottom no-repeat, url(../images/about-bg.png) 0 0 repeat; padding: 0 0 310px; background-size: 100%, auto;}
+	
+.section-about .sec-about-separator{ height: auto; padding: 10% 0; background: url(../images/about-separator.png) center bottom no-repeat; background-size: 100% auto;}
+.section-about .about-block{ padding: 0 0 90px;}
+.footer-section{ padding:250px 0 400px; background: url(../images/footer-top-bg.png) center top no-repeat, url(../images/footer-bottom-bg.png) center bottom no-repeat, url(../images/footer-bg.png) 0 0 repeat; background-size: 100% auto, 100% auto, auto;}
+.footer-section .container{ padding:80px 2% 0;}	
+
+.header-sec.privacypage{ padding: 16% 0; min-height: 200px;}
+}
+
+@media only screen and (min-width:480px) and (max-width:959px) {
+img {max-width:100%; height:auto;}
+.header-sec .container{ padding:9px 2%;}	
+.header-sec .sitelogo{ width:12%; margin: 0 0 0 8%;}	
+.header-sec .headertext{ font-size: 2em; padding: 0 5% 0 0;}
+.section-latestnews{ 
+	background: url(../images/orangeleaf-left.png) 0 0 no-repeat,
+	url(../images/orangeleaf-right.png) 100% 0 no-repeat,
+	url(../images/../images/sec01-bottom.png) center bottom no-repeat; background-size: 18%, 18%, 100% auto; padding: 0 0 30%;} 
+.section-latestnews .newsbox h2{ font-size: 2em;}
+.section-latestnews .newsbox p{ font-size:1.3em;}
+.section-about{ background: url(../images/sec02-bottom.png) center bottom no-repeat, url(../images/about-bg.png) 0 0 repeat; padding: 0 0 30%; background-size: 100%, auto;}
+	
+.section-about .sec-about-separator{ height: auto; padding: 10% 0; background: url(../images/about-separator.png) center bottom no-repeat; background-size: 100% auto;}
+.section-about .about-block{ padding: 0 0 10px;}
+
+.section-latestnews .container{ padding:40px 2%; }	
+.section-about .about-block .img-section, .section-about .birding-block .img-section{ float: none; width: 40%; margin: 0 auto 20px; text-align: center;}
+.section-about .about-block .txt-section, .section-about .birding-block .txt-section{ float: none; width: 100%; padding: 0; margin: 0 auto; text-align: center;}
+.section-about .about-block .txt-section h3, .section-about .birding-block .txt-section h3{ font-size:2em;}
+.section-about .about-block .txt-section p, .section-about .birding-block .txt-section p{ font-size:1.3em; line-height: 1.6em;}	
+.bottom-contact-section{padding:20px 2%;}
+.bottom-contact-section h3{ font-size:2em; }
+.bottom-contact-section p{ font-size:1.3em; line-height: 1.6em;}
+.footer-section{ padding:23% 0 28%; background: url(../images/footer-top-bg.png) center top no-repeat, url(../images/footer-bottom-bg.png) center bottom no-repeat, url(../images/footer-bg.png) 0 0 repeat; background-size: 100% auto, 100% auto, auto;}
+.footer-section .container{ padding:50px 2% 0;}	
+
+.footer-section p{ font-size:1em; line-height: 1.6em;}
+	.footer-nav{ margin: 0 auto 20px;}	
+.footer-nav ul li{ font-size:1.2em; line-height: 1.6em;}
+.spacer{height: 10px;}		
+.section-content .container{ padding:20px 2%;}	
+.section-content h2{ font-size:2em; margin:0 0 10px; text-align: center;}
+.section-content p{ font-size:1.3em; line-height: 1.6em; margin:0 0 10px; text-align: center;}	
+.publication-lists p{ text-align: left; padding: 0 0 0 38px;}
+.header-sec.privacypage{ padding: 10% 0; min-height: 100px;}	
+}
+
+@media only screen and (min-width:280px) and (max-width:479px) {
+img {max-width:100%; height:auto;}
+.header-sec .container{ padding:9px 2%;}	
+.header-sec .sitelogo{ width:12%; margin: 0 0 0 8%;}
+.header-sec .headertext{ font-size: 2em; padding: 0 5% 0 0;}
+.section-latestnews{ 
+	background: url(../images/orangeleaf-left.png) 0 0 no-repeat,
+	url(../images/orangeleaf-right.png) 100% 0 no-repeat,
+	url(../images/../images/sec01-bottom.png) center bottom no-repeat; background-size: 18%, 18%, 100% auto; padding: 0 0 100px;} 
+.section-latestnews .newsbox h2{ font-size: 2em;}
+.section-latestnews .newsbox p{ font-size:1.3em;}
+.section-about{ background: url(../images/sec02-bottom.png) center bottom no-repeat, url(../images/about-bg.png) 0 0 repeat; padding: 0 0 30%; background-size: 100%, auto;}
+	
+.section-about .sec-about-separator{ height: auto; padding: 10% 0; background: url(../images/about-separator.png) center bottom no-repeat; background-size: 100% auto;}
+.section-about .about-block{ padding: 0 0 10px;}
+
+.section-latestnews .container{ padding:40px 2%; }	
+.section-about .about-block .img-section, .section-about .birding-block .img-section{ float: none; width: 80%; margin: 0 auto 20px; text-align: center;}
+.section-about .about-block .txt-section, .section-about .birding-block .txt-section{ float: none; width: 100%; padding: 0; margin: 0 auto; text-align: center;}
+.section-about .about-block .txt-section h3, .section-about .birding-block .txt-section h3{ font-size:2em;}
+.section-about .about-block .txt-section p, .section-about .birding-block .txt-section p{ font-size:1.3em; line-height: 1.6em;}	
+.bottom-contact-section{padding:20px 2%;}
+.bottom-contact-section h3{ font-size:2em; }
+.bottom-contact-section p{ font-size:1.3em; line-height: 1.6em;}
+.footer-section{ padding:30% 0 28%; background: url(../images/footer-top-bg.png) center top no-repeat, url(../images/footer-bottom-bg.png) center bottom no-repeat, url(../images/footer-bg.png) 0 0 repeat; background-size: 100% auto, 100% auto, auto;}
+.footer-section .container{ padding:10px 2% 0;}	
+	.footer-nav{ margin: 0 auto 10px;}	
+.footer-nav ul li{ font-size:1em; line-height: 1.2em; margin: 0 1% 8px;}
+	.footer-section p{ font-size:1em; line-height: 1.6em;}
+	.footer-section .footer-socialmedia{ float: none; width: 100%;  margin:0 auto 10px; text-align: center;}
+	.footer-section .copyright{ float: none; width: 100%;  margin:0 auto 10px;}
+.footer-section .designed{ float: none; width: 100%;  margin:0 auto; text-align: center;}
+.spacer{height: 10px;}	
+.section-content .container{ padding:20px 2%;}	
+.section-content h2{ font-size:2em; margin:0 0 18px; text-align: center;}
+.section-content p{ font-size:1.3em; line-height: 1.6em; margin:0 0 18px; text-align: center;}
+.publication-lists p{ text-align: left; padding: 0 0 0 38px; word-break: break-all;}	
+.book-descbox p{text-align: left;}
+.header-sec.privacypage{ padding: 10% 0; min-height: 100px;}	
+}
